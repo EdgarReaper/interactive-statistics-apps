@@ -61,10 +61,10 @@ Dataset includes:
 ## 🌐 Live Applications
 
 - Beta Distribution App:  
-  `https://your-beta-app.streamlit.app`
+  `[https://beta-app.streamlit.app](https://beta-app-9rnjmhvckcvkfexqwhk8zm.streamlit.app)`
 
 - Obesity Analysis App:  
-  `https://your-obesity-app.streamlit.app`
+  `[https://obesity-app.streamlit.app](https://obesity-app-ecuat69sytzvibdp5gscrn.streamlit.app)`
 
 ---
 
