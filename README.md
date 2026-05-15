@@ -17,6 +17,16 @@ This project combines theoretical probability concepts with practical explorator
 
 ---
 
+## 🌐 Live Applications
+
+- Beta Distribution App:  
+  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://beta-app-h44xtkwzokiwkmcwpn7s7q.streamlit.app)
+
+- Obesity Analysis App:  
+  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://obesity-app-goql8zqwhqrbsngv43wvaw.streamlit.app)
+
+---
+
 ## 🚀 Applications
 
 ### 📈 Beta Distribution Explorer
@@ -55,16 +65,6 @@ Dataset includes:
 - 2111 observations
 - 17 variables
 - Data from Mexico, Peru, and Colombia
-
----
-
-## 🌐 Live Applications
-
-- Beta Distribution App:  
-  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://beta-app-h44xtkwzokiwkmcwpn7s7q.streamlit.app)
-
-- Obesity Analysis App:  
-  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://obesity-app-goql8zqwhqrbsngv43wvaw.streamlit.app)
 
 ---
 
