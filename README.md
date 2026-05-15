@@ -72,11 +72,11 @@ Dataset includes:
 
 ### Beta Distribution App
 
-![Beta App Screenshot](images/beta_app.png)
+![Beta App Screenshot](beta_app.png)
 
 ### Obesity Analysis App
 
-![Obesity App Screenshot](images/obesity_app.png)
+![Obesity App Screenshot](obesity_app.png)
 
 ---
 
