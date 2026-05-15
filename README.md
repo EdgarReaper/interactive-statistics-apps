@@ -98,3 +98,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/EdgarReaper/interactive-statistics-apps.git
 cd interactive-statistics-apps
+pip install -r requirements.txt
+streamlit run beta-app.py
+streamlit run obesity-app.py
