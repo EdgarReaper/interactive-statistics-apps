@@ -22,7 +22,7 @@ st.markdown("Análise interativa de variáveis quantitativas com intervalos de c
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("Obesity.csv")
+    df = pd.read_csv("data/Obesity.csv")
     return df
 
 df = load_data()
