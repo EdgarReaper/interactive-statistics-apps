@@ -61,10 +61,10 @@ Dataset includes:
 ## 🌐 Live Applications
 
 - Beta Distribution App:  
-  `https://your-beta-app.streamlit.app`
+  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://beta-app-9rnjmhvckcvkfexqwhk8zm.streamlit.app)
 
 - Obesity Analysis App:  
-  `https://your-obesity-app.streamlit.app`
+  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://obesity-app-ecuat69sytzvibdp5gscrn.streamlit.app)
 
 ---
 
@@ -98,3 +98,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/EdgarReaper/interactive-statistics-apps.git
 cd interactive-statistics-apps
+pip install -r requirements.txt
+streamlit run beta-app.py
+streamlit run obesity-app.py
