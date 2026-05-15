@@ -61,10 +61,10 @@ Dataset includes:
 ## 🌐 Live Applications
 
 - Beta Distribution App:  
-  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://beta-app-9rnjmhvckcvkfexqwhk8zm.streamlit.app)
+  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://beta-app-h44xtkwzokiwkmcwpn7s7q.streamlit.app)
 
 - Obesity Analysis App:  
-  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://obesity-app-ecuat69sytzvibdp5gscrn.streamlit.app)
+  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://obesity-app-goql8zqwhqrbsngv43wvaw.streamlit.app)
 
 ---
 
@@ -101,3 +101,28 @@ cd interactive-statistics-apps
 pip install -r requirements.txt
 streamlit run beta-app.py
 streamlit run obesity-app.py
+```
+
+---
+
+## 📁 Project Structure
+
+```
+interactive-statistics-apps/
+│
+├── apps/
+│   ├── beta-app.py
+│   └── obesity-app.py
+│
+├── data/
+│   └── Obesity.csv
+│
+├── images/
+│   ├── beta_app.png
+│   └── obesity_app.png
+│
+├── requirements.txt
+├── README.md
+├── .gitattributes
+└── .gitignore
+```
