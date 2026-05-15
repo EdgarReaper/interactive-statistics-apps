@@ -101,3 +101,28 @@ cd interactive-statistics-apps
 pip install -r requirements.txt
 streamlit run beta-app.py
 streamlit run obesity-app.py
+```
+
+---
+
+## 📁 Project Structure
+
+```
+interactive-statistics-apps/
+│
+├── apps/
+│   ├── beta-app.py
+│   └── obesity-app.py
+│
+├── data/
+│   └── Obesity.csv
+│
+├── images/
+│   ├── beta_app.png
+│   └── obesity_app.png
+│
+├── requirements.txt
+├── README.md
+├── .gitattributes
+└── .gitignore
+```
