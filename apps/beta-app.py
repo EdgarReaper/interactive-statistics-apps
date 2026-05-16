@@ -246,4 +246,4 @@ onde $\mu$ e $\sigma^2$ são a média e variância da distribuição Beta origin
 """)
 
 st.markdown("---")
-st.caption("Projeto de Laboratórios de Estatística II - Distribuição Beta | Código gerado com Python + Streamlit + SciPy")
+st.caption("Projeto de Laboratórios de Estatística II - Distribuição Beta | Código gerado com Python + Streamlit + SciPy + NumPy + Matplotlib")
