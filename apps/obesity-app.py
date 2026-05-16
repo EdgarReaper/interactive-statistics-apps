@@ -306,4 +306,4 @@ plt.tight_layout()
 st.pyplot(fig3)
 
 st.markdown("---")
-st.caption("Projeto de Laboratórios de Estatística II - Análise Exploratória do Dataset de Obesidade | Código gerado com Python + Streamlit + SciPy")
+st.caption("Projeto de Laboratórios de Estatística II - Análise Exploratória do Dataset de Obesidade | Código gerado com Python + Streamlit + Pandas + SciPy + NumPy + Matplotlib")
