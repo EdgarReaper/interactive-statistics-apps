@@ -91,6 +91,18 @@ Dataset includes:
 
 ---
 
+## 🧠 What I Learned
+
+- How to build and deploy interactive data applications using **Streamlit**
+- Deep understanding of the **Beta distribution** - how shape parameters control the distribution and how to interpret PDF, CDF and quantiles
+- Practical verification of the **Law of Large Numbers** and the **Central Limit Theorem** through simulation
+- How to perform **exploratory data analysis** on a real-world dataset - descriptive statistics, histogram interpretation, boxplots and outlier detection
+- How to compute and interpret **confidence intervals** for the mean using the t-Student distribution
+- Working with **SciPy**, **NumPy** and **Matplotlib** for statistical computing and data visualisation
+- Structuring a Python project for **GitHub** and deploying apps with **Streamlit Community Cloud**
+
+---
+
 ## 📦 Installation
 
 Clone the repository:
